@@ -1,0 +1,37 @@
+_repo: Eleven-Years-in-the-Rocky-Mountains-and-Life-on-the-FrontierAlso-a-History-of-the-Sioux-War-a__39465
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39465-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Victor, Frances Fuller
+    alias: Fuller, Frances A.
+    birthdate: 1826
+    deathdate: 1902
+    gutenberg_agent_id: '8614'
+    url: http://www.gutenberg.org/2009/agents/8614
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Fuller_Victor
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2012-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39465'
+  lccn: 01024985
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meek, Joseph Lafayette, 1810-1875'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'Custer, George A. (George Armstrong), 1839-1876'
+- !lcc 'F721'
+- !lcsh 'Dakota Indians -- Wars, 1876'
+title: 'Eleven Years in the Rocky Mountains and Life on the Frontier
+
+  Also a History of the Sioux War, and a Life of Gen. George A. Custer with Full Account
+  of His Last Battle'
+url: http://www.gutenberg.org/ebooks/39465
