@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8614
     wikipedia: http://en.wikipedia.org/wiki/Frances_Fuller_Victor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39465#Eleven-Years-in-the-Rocky-Mountains-and-Life-on-the-FrontierAlso-a-History-of-the-Sioux-War-a_
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-04-17'
 gutenberg_type: Text
